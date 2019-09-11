@@ -1,0 +1,7 @@
+Voltage: 220V-240V~50-60Hz
+Input power: 800W
+No load speed: 0-1200 r/min
+Impact times: 0-5300/min
+Impact energy: 2.5J
+Drilling capacity: Concrete 26mm
+SDS plus chuck system with 3 drills and 2 chisels
