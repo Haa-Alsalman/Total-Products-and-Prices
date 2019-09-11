@@ -1,0 +1,10 @@
+Voltage: 220V-240V~50-60Hz
+Input power: 1800W
+No load speed: 5500 rpm
+Blade size: 255mm
+Table turning range: 0-45° left
+Saw body tilting range: 0-45°
+Max cutting capacity:80x280mm
+Aluminium base
+Miter cuts 0-45° left
+Double bar for smooth sliding

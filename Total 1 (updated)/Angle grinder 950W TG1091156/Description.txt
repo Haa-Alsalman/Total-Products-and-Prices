@@ -1,0 +1,6 @@
+Voltage: 220V-240V~50-60Hz
+Input power: 950W
+No load speed: 11000 rpm
+Disc diameter: 115mm
+Spindle thread: M14
+Soft grip auxiliary handle

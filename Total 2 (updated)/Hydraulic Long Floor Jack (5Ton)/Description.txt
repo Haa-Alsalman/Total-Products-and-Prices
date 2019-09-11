@@ -1,0 +1,6 @@
+Capacity: 5 Ton
+Net weight: 87kg
+Size: 1510*380*210mm
+Min height: 150mm
+Max height: 560mm
+Travel: 410mm

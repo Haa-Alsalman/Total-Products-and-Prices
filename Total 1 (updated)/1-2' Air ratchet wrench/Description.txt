@@ -1,0 +1,8 @@
+Front Exhaust
+Square drive: 1/2"
+Capacity bolt size: 1/2"(13mm)
+Free speed rpm: 160
+Max torque: 50 ft- Lb(68N.M)
+Air inlet (NPT): 1/4"
+Air hose (ID): 3/8"
+Air cons: 3 cfm(85.5/min)

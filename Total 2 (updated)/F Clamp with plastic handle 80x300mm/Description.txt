@@ -1,0 +1,4 @@
+Clamp size: 50x150mm
+Thickness and width of iron ruler: 6x22mm
+Diameter of screw thread: 13.5mm
+Max clamp force: 270 KG

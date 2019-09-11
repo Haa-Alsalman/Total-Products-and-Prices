@@ -1,0 +1,9 @@
+Voltage: 220V-240V~50-60Hz
+Input power: 370W(0.5HP)
+Max head: 35M
+Max suction: 8M
+Max flow: 35L/min
+Pipe diameter: 1"x 1"
+Copper wire motor
+Copper impeller
+0.15m length cable

@@ -1,0 +1,6 @@
+Capacity: 10 Ton
+Net weight: 146kg
+Size: 1640*480*260mm
+Min height: 160mm
+Max height: 560mm
+Travel: 400mm
